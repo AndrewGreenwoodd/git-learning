@@ -1,0 +1,24 @@
+From daacaec4fb28cf2ec7cf0f3c994c9003bcac851b Mon Sep 17 00:00:00 2001
+From: Andrii Sasnyk <andriy258022@gmail.com>
+Date: Mon, 16 Sep 2024 15:36:49 +0300
+Subject: [PATCH] changed 1st file
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 8cd9107..daa8c07 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-testing
+-ten 
++testing new things
++ten great
+ lines
+ again
+ and again
+-- 
+2.43.0.windows.1
+
